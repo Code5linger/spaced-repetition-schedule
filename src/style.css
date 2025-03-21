@@ -1,0 +1,14 @@
+body {
+    display: grid;
+    place-content: center;
+    background: black;
+    color: whitesmoke;
+    height: 100vh;
+    overflow: hidden;
+}
+
+button,
+input {
+    background: black;
+    color: whitesmoke;
+}
